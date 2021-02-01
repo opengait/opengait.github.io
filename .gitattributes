@@ -1,2 +1,7 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+# Ignore source code
+images export-ignore
+wifi export-ignore
+index.html export-ignore
+privacy_policy.html export-ignore
